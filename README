@@ -1,0 +1,1 @@
+pinyin-kit is a library which provides some functions to handle chinese pinyin issues, such as collating in pinyin order, searching the pinyin of a chinese char.  
